@@ -18,4 +18,6 @@ We visualize the confidence intervals in a graph, which helps us to compare the 
 
 We established the Null Hypothesis (H0), which says that there is no significant difference between the delays of the two companies, that is, the difference in the average delays is equal to zero. The Alternative Hypothesis (HA) is that DL flights are more delayed, with a positive difference in average delays. Using the t-test and calculating the p-value, we come to the conclusion that we failed to reject the null hypothesis. The p-value is greater than the 0.05 significance level, which means that there is a high probability that there is no significant difference between the companies' delays.
 
+# ✅ CONCLUSION
+
 Based on the analyzed data, we have no statistical evidence to state that (DL) delays more than (UA). Thus, considering all the steps and analyzes performed, we can conclude that the samples probably come from the same population and there is no statistical evidence that Delta Airlines performs worse in relation to flight delays when compared to United Airlines.
