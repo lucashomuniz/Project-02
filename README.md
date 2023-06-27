@@ -8,7 +8,7 @@ The purpose of this hypothesis test is to provide valuable insights for both com
 
 Keywords: R Language, Data Analysis, Flights Library, Data Visualization, Historical, Statistical Models, Students t-test, p-value
 
-# PROCESS
+# ✅ PROCESS
 
 Let's take a step-by-step analysis of United Airlines (UA) and Delta Airlines (DL) flight data and draw conclusions based on the available information. First, we create a dataset called pop_data using the Flights library. This dataset contains information about airlines UA and DL, with a focus on delays in arriving flights. It has two columns, one for the company name and one for the delay. Then, we split the dataset into two samples, each containing 1000 observations. Sample 1 represents data from Delta Airlines (DL), while sample 2 represents data from United Airlines (UA). This division will allow us to separately analyze the performance of each company. With the samples separated, we reassembled the data into a single dataset, to facilitate comparison.
 
