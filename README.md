@@ -1,4 +1,4 @@
-# ✅ PROJECT-04
+# ✅ PROJECT-02
 
 In this project, a **hypothesis test** was conducted to determine whether there is a **statistically significant difference** in the proportion of **delayed flights** between two of the world’s leading airlines: **Delta Airlines** and **United Airlines**. Both airlines are known for their extensive global networks and for serving millions of passengers each year. However, differences in their **operational strategies**, **fleet management**, and **route characteristics** may influence their ability to maintain **on-time performance**, a key factor in **customer satisfaction** and **operational success**. The analysis utilizes historical data from the **Flights Dataset**, focusing on delays to compare the punctuality of both airlines. By applying a well-structured **hypothesis testing framework**, this project seeks to uncover whether one airline consistently experiences more delays than the other, identifying any meaningful discrepancies in their performance.
 
