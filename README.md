@@ -19,3 +19,6 @@ The results of the hypothesis test showed that the **p-value** was greater than 
 # ✅ CONCLUSION
 
 Based on the analyzed data, there is **no statistical evidence** to support the claim that **Delta Airlines (DL)** experiences more delays than **United Airlines (UA)**. The results of the hypothesis test indicate that the delays for both airlines are statistically comparable. Considering all the steps and analyses performed, including confidence interval calculations and hypothesis testing, it can be concluded that the samples likely originate from the **same population**. Therefore, there is no evidence to suggest that Delta Airlines performs worse than United Airlines in terms of flight delays.
+
+![Screenshot 2025-03-07 at 08 56 08](https://github.com/user-attachments/assets/069d75da-5721-4b34-883b-6e87bdfb8a2c)
+
