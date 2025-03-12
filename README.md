@@ -20,7 +20,7 @@ Ultimately, the report delivered was structured into two main sections. The firs
 
 The second page provided detailed insights into **user progress** with their **testing activities**, organized into specific categories (**Functionality, Drivers, and Export tests**). **DAX-based metrics** were employed to calculate real-time completion percentages, indicating an overall **test completion rate of approximately 64%**, with notable completion rates in **Export tests (67.86%)** and **Drivers tests (65.45%)**. Furthermore, the report achieved its goal, making it possible to monitor, categorize and help resolve application defects, also made it easy to identify the users excelling in their testing activities, effectively assessing test efficacy and ensuring comprehensive application validation before final implementation.
 
-![Screen Recording 2025-03-11 at 22 03 33](https://github.com/user-attachments/assets/6ce696d8-9a3d-441f-87fd-b4aa59e9c6a0)
+![Screen Recording 2025-03-11 at 22 07 51](https://github.com/user-attachments/assets/d8bd7b2e-103e-459f-ad95-2bd5b5582abc)
 
 In conclusion, the resulting report delivered an efficient and intuitive platform for monitoring the entire UAT process. It significantly contributed to rapidly identifying issues and provided essential information to support developers in prioritizing and resolving defects. Consequently, the project not only enhanced the quality of the developed application but also substantially improved communication and collaboration between technical teams and end-users.
 
