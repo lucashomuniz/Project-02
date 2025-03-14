@@ -24,4 +24,4 @@ The second page provided detailed insights into **user progress** with their **t
 
 In conclusion, the resulting report delivered an efficient and intuitive platform for monitoring the entire UAT process. It significantly contributed to rapidly identifying issues and provided essential information to support developers in prioritizing and resolving defects. Consequently, the project not only enhanced the quality of the developed application but also substantially improved communication and collaboration between technical teams and end-users.
 
-**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=07bbc222-fc54-4901-ab41-64948f2260d0&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
+**Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiZGEyYWFlMmUtMzA2OC00YjZmLTk0YTYtOGUyYjA5NWQ5YjdiIiwidCI6ImQ2OWE3NzgzLWU5MzctNDIzMi1iYTg1LTIwOTg0MDgzODJjOCJ9
