@@ -1,4 +1,4 @@
-# ✅ PROJECT-11
+# ✅ PROJECT-02
 
 In this project, a comprehensive report was developed to monitor and track **User Acceptance Testing (UAT)** activities applied to a forecasting and demand-planning application. A company implemented a web-based **Shiny (R) Application** aimed at **centralizing and simplifying access to information** regarding products consumption and shipment forecasts. The methodology adopted prioritized clarity and practicality, using **interactive visuals** to highlight **key indicators** and testing stages. Complementarily, a **PowerBI Dashboard** enabled real-time tracking of the UAT process, providing complete visibility from initiation through to the conclusion of tests. Thus, the report not only facilitated **monitoring activities** but also played a crucial role in identifying, categorizing and addressing defects reported by users, ensuring **continuous improvement** before the application's final deployment.
 
