@@ -16,11 +16,11 @@ In addition to **Defect Categorization**, the **R script** also aggregated infor
 
 Ultimately, the report delivered was structured into two main sections. The first provided a consolidated view of defects identified throughout the **UAT process**, clearly highlighting the total number of **defects found (202)**, classified into **open (64)**, **in-progress (40)**, and **closed (98)** categories. Interactive charts presented defect categorization percentages, revealing that most issues related to **calculation errors (59%)**, followed by **mapping alignment (26%)**, **visualization issues (10%**) and **format modifications (4%)**. This section also analyzed **defect criticality (47%)** rated as high—and clearly identified the most active users reporting defects, facilitating **prioritization and corrective actions**.
 
-![Screen Recording 2025-03-17 at 18 35 04](https://github.com/user-attachments/assets/7a9711b6-d2eb-45e6-aaf4-da4e4ed6b215)
+![Screen Recording 2025-03-17 at 18 41 17](https://github.com/user-attachments/assets/de352d71-6475-461b-96e1-145c80d313a7)
 
 The second page provided detailed insights into **user progress** with their **testing activities**, organized into specific categories (**Functionality, Drivers, and Export tests**). **DAX-based metrics** were employed to calculate real-time completion percentages, indicating an overall **test completion rate of approximately 64%**, with notable completion rates in **Export tests (67.86%)** and **Drivers tests (65.45%)**. Furthermore, the report achieved its goal, making it possible to monitor, categorize and help resolve application defects, also made it easy to identify the users excelling in their testing activities, effectively assessing test efficacy and ensuring comprehensive application validation before final implementation.
 
-![Screen Recording 2025-03-17 at 18 35 29](https://github.com/user-attachments/assets/b24d8dcf-4c46-44cc-aca6-efa6e3313ead)
+![Screen Recording 2025-03-17 at 18 41 40](https://github.com/user-attachments/assets/9fb012b3-cd1b-4230-8f3b-82eab68f5748)
 
 In conclusion, the resulting report delivered an efficient and intuitive platform for monitoring the entire UAT process. It significantly contributed to rapidly identifying issues and provided essential information to support developers in prioritizing and resolving defects. Consequently, the project not only enhanced the quality of the developed application but also substantially improved communication and collaboration between technical teams and end-users.
 
