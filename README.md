@@ -24,4 +24,4 @@ The third page provided detailed insights into **User Test Progression** with th
 
 In conclusion, the resulting report delivered an efficient and intuitive platform for monitoring the entire UAT process. It significantly contributed to rapidly identifying issues and provided essential information to support developers in prioritizing and resolving defects. Consequently, the project not only enhanced the quality of the developed application but also substantially improved communication and collaboration between technical teams and end-users.
 
-**Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiZGEyYWFlMmUtMzA2OC00YjZmLTk0YTYtOGUyYjA5NWQ5YjdiIiwidCI6ImQ2OWE3NzgzLWU5MzctNDIzMi1iYTg1LTIwOTg0MDgzODJjOCJ9
+**Dashboard**: [https://app.powerbi.com/view?r=eyJrIjoiZGEyYWFlMmUtMzA2OC00YjZmLTk0YTYtOGUyYjA5NWQ5YjdiIiwidCI6ImQ2OWE3NzgzLWU5MzctNDIzMi1iYTg1LTIwOTg0MDgzODJjOCJ9](https://app.powerbi.com/reportEmbed?reportId=4af1653d-c975-4de4-b0e2-6b5349270494&autoAuth=true&ctid=ed8112cd-3759-41ec-b020-5d090181c999)
